@@ -1,0 +1,289 @@
+current fold: 1
+msi records: 456
+tiles num: 366776
+slides num: 84
+Initialize end
+best epoch: 35, best val macro-average auc: 0.8858592263792011
+Test slide acc: 0.7976190476190477
+Confusion matrix:
+[[58  5]
+ [12  9]]
+	MSI: MSS, auc: 0.8775510204081632
+	MSI: MSI-L, auc: 0.8775510204081632
+	MSI: MSI-H, auc: 0.8775510204081631
+Macro average AUC: 0.8775510204081631
+current fold: 1
+msi records: 456
+tiles num: 366776
+slides num: 84
+Initialize end
+best epoch: 39, best val macro-average auc: 0.9010779961953075
+Test slide acc: 0.6547619047619048
+Confusion matrix:
+[[36 27]
+ [ 2 19]]
+	MSI: MSS, auc: 0.8374905517762661
+	MSI: MSI-L, auc: 0.8374905517762661
+	MSI: MSI-H, auc: 0.8374905517762661
+Macro average AUC: 0.8374905517762661
+current fold: 0
+msi records: 456
+tiles num: 366776
+slides num: 102
+Initialize end
+best epoch: 51, best val macro-average auc: 0.9192949907235621
+Test slide acc: 0.7254901960784313
+Confusion matrix:
+[[63 20]
+ [ 8 11]]
+	MSI: MSS, auc: 0.7863031071655041
+	MSI: MSI-L, auc: 0.7863031071655041
+	MSI: MSI-H, auc: 0.7863031071655041
+Macro average AUC: 0.7863031071655041
+current fold: 4
+msi records: 456
+tiles num: 366776
+slides num: 91
+Initialize end
+best epoch: 26, best val macro-average auc: 0.9612244897959185
+Test slide acc: 0.8681318681318682
+Confusion matrix:
+[[76  1]
+ [11  3]]
+	MSI: MSS, auc: 0.8478664192949907
+	MSI: MSI-L, auc: 0.8478664192949907
+	MSI: MSI-H, auc: 0.8478664192949907
+Macro average AUC: 0.8478664192949907
+current fold: 0
+msi records: 456
+tiles num: 366776
+slides num: 102
+Initialize end
+best epoch: 76, best val macro-average auc: 0.911873840445269
+Test slide acc: 0.803921568627451
+Confusion matrix:
+[[77  6]
+ [14  5]]
+	MSI: MSS, auc: 0.7698161065313887
+	MSI: MSI-L, auc: 0.7698161065313887
+	MSI: MSI-H, auc: 0.7698161065313887
+Macro average AUC: 0.7698161065313887
+current fold: 0
+msi records: 456
+tiles num: 366776
+slides num: 102
+Initialize end
+best epoch: 48, best val macro-average auc: 0.891465677179963
+Test slide acc: 0.7941176470588235
+Confusion matrix:
+[[74  9]
+ [12  7]]
+	MSI: MSS, auc: 0.7691819911223843
+	MSI: MSI-L, auc: 0.7691819911223843
+	MSI: MSI-H, auc: 0.7691819911223843
+Macro average AUC: 0.7691819911223843
+current fold: 2
+msi records: 456
+tiles num: 366776
+slides num: 77
+Initialize end
+best epoch: 40, best val macro-average auc: 0.9024943310657596
+Test slide acc: 0.8961038961038961
+Confusion matrix:
+[[64  3]
+ [ 5  5]]
+	MSI: MSS, auc: 0.8791044776119403
+	MSI: MSI-L, auc: 0.8791044776119403
+	MSI: MSI-H, auc: 0.8791044776119403
+Macro average AUC: 0.8791044776119403
+current fold: 2
+msi records: 456
+tiles num: 366776
+slides num: 77
+Initialize end
+best epoch: 66, best val macro-average auc: 0.891156462585034
+Test slide acc: 0.935064935064935
+Confusion matrix:
+[[66  1]
+ [ 4  6]]
+	MSI: MSS, auc: 0.9417910447761194
+	MSI: MSI-L, auc: 0.9417910447761194
+	MSI: MSI-H, auc: 0.9417910447761194
+Macro average AUC: 0.9417910447761194
+current fold: 4
+msi records: 456
+tiles num: 366776
+slides num: 91
+Initialize end
+best epoch: 30, best val macro-average auc: 0.9673469387755101
+Test slide acc: 0.7032967032967034
+Confusion matrix:
+[[51 26]
+ [ 1 13]]
+	MSI: MSS, auc: 0.8738404452690167
+	MSI: MSI-L, auc: 0.8738404452690167
+	MSI: MSI-H, auc: 0.8738404452690167
+Macro average AUC: 0.8738404452690167
+current fold: 0
+msi records: 456
+tiles num: 366776
+slides num: 102
+Initialize end
+best epoch: 71, best val macro-average auc: 0.8951762523191095
+Test slide acc: 0.8235294117647058
+Confusion matrix:
+[[79  4]
+ [14  5]]
+	MSI: MSS, auc: 0.8110336081166772
+	MSI: MSI-L, auc: 0.8110336081166772
+	MSI: MSI-H, auc: 0.8110336081166771
+Macro average AUC: 0.8110336081166771
+current fold: 1
+msi records: 456
+tiles num: 366776
+slides num: 84
+Initialize end
+best epoch: 23, best val macro-average auc: 0.8687381103360812
+Test slide acc: 0.8095238095238095
+Confusion matrix:
+[[61  2]
+ [14  7]]
+	MSI: MSS, auc: 0.8518518518518519
+	MSI: MSI-L, auc: 0.8518518518518519
+	MSI: MSI-H, auc: 0.8518518518518519
+Macro average AUC: 0.8518518518518519
+current fold: 2
+msi records: 456
+tiles num: 366776
+slides num: 77
+Initialize end
+best epoch: 36, best val macro-average auc: 0.8805744520030234
+Test slide acc: 0.8441558441558441
+Confusion matrix:
+[[59  8]
+ [ 4  6]]
+	MSI: MSS, auc: 0.8432835820895522
+	MSI: MSI-L, auc: 0.8432835820895522
+	MSI: MSI-H, auc: 0.8432835820895522
+Macro average AUC: 0.8432835820895522
+current fold: 2
+msi records: 456
+tiles num: 366776
+slides num: 77
+Initialize end
+best epoch: 34, best val macro-average auc: 0.8813303099017386
+Test slide acc: 0.8441558441558441
+Confusion matrix:
+[[58  9]
+ [ 3  7]]
+	MSI: MSS, auc: 0.8492537313432835
+	MSI: MSI-L, auc: 0.8492537313432835
+	MSI: MSI-H, auc: 0.8492537313432837
+Macro average AUC: 0.8492537313432836
+current fold: 3
+msi records: 456
+tiles num: 366776
+slides num: 84
+Initialize end
+best epoch: 59, best val macro-average auc: 0.9402985074626866
+Test slide acc: 0.8333333333333334
+Confusion matrix:
+[[59 11]
+ [ 3 11]]
+	MSI: MSS, auc: 0.9
+	MSI: MSI-L, auc: 0.9
+	MSI: MSI-H, auc: 0.9
+Macro average AUC: 0.9
+current fold: 4
+msi records: 456
+tiles num: 366776
+slides num: 91
+Initialize end
+best epoch: 57, best val macro-average auc: 0.9734693877551022
+Test slide acc: 0.8351648351648352
+Confusion matrix:
+[[67 10]
+ [ 5  9]]
+	MSI: MSS, auc: 0.8775510204081631
+	MSI: MSI-L, auc: 0.8775510204081631
+	MSI: MSI-H, auc: 0.8775510204081634
+Macro average AUC: 0.8775510204081632
+current fold: 3
+msi records: 456
+tiles num: 366776
+slides num: 84
+Initialize end
+best epoch: 31, best val macro-average auc: 0.9194029850746268
+Test slide acc: 0.9047619047619048
+Confusion matrix:
+[[64  6]
+ [ 2 12]]
+	MSI: MSS, auc: 0.9316326530612246
+	MSI: MSI-L, auc: 0.9316326530612246
+	MSI: MSI-H, auc: 0.9316326530612244
+Macro average AUC: 0.9316326530612244
+current fold: 1
+msi records: 456
+tiles num: 366776
+slides num: 84
+Initialize end
+best epoch: 23, best val macro-average auc: 0.8776157260621433
+Test slide acc: 0.2976190476190476
+Confusion matrix:
+[[ 4 59]
+ [ 0 21]]
+	MSI: MSS, auc: 0.7891156462585034
+	MSI: MSI-L, auc: 0.7891156462585034
+	MSI: MSI-H, auc: 0.7891156462585034
+Macro average AUC: 0.7891156462585034
+current fold: 3
+msi records: 456
+tiles num: 366776
+slides num: 84
+Initialize end
+best epoch: 78, best val macro-average auc: 0.9597014925373135
+Test slide acc: 0.8928571428571429
+Confusion matrix:
+[[64  6]
+ [ 3 11]]
+	MSI: MSS, auc: 0.9081632653061225
+	MSI: MSI-L, auc: 0.9081632653061225
+	MSI: MSI-H, auc: 0.9081632653061225
+Macro average AUC: 0.9081632653061225
+current fold: 3
+msi records: 456
+tiles num: 366776
+slides num: 84
+Initialize end
+best epoch: 24, best val macro-average auc: 0.8671641791044776
+Test slide acc: 0.8333333333333334
+Confusion matrix:
+[[61  9]
+ [ 5  9]]
+	MSI: MSS, auc: 0.8959183673469389
+	MSI: MSI-L, auc: 0.8959183673469389
+	MSI: MSI-H, auc: 0.8959183673469387
+Macro average AUC: 0.8959183673469389
+current fold: 4
+msi records: 456
+tiles num: 366776
+slides num: 91
+Initialize end
+best epoch: 63, best val macro-average auc: 0.9755102040816326
+Test slide acc: 0.8021978021978022
+Confusion matrix:
+[[65 12]
+ [ 6  8]]
+	MSI: MSS, auc: 0.8645640074211502
+	MSI: MSI-L, auc: 0.8645640074211502
+	MSI: MSI-H, auc: 0.8645640074211502
+Macro average AUC: 0.8645640074211502
+Overall result
+ACC Mean: 0.7949570037805332, Confidence Interval(0.95): [0.5118357260885376, 1.078078281472529]
+Confusion matrix:
+[[8.61428571 1.67142857]
+ [0.91428571 1.31428571]]
+	MSI: MSS, AUC Mean: 0.8552656448579622, Confidence Interval(0.95): [0.7499273290286347, 0.9606039606872897]
+	MSI: MSI-L, AUC Mean: 0.8552656448579622, Confidence Interval(0.95): [0.7499273290286347, 0.9606039606872897]
+	MSI: MSI-H, AUC Mean: 0.8552656448579621, Confidence Interval(0.95): [0.7499273290286346, 0.9606039606872896]
+Micro Average AUC Mean: 0.8552656448579621, Confidence Interval(0.95): [0.7499273290286346, 0.9606039606872896]
